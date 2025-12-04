@@ -1,6 +1,7 @@
 {
   "name": "hotel-management-frontend",
   "version": "1.0.0",
+  "type": "module",
   "engines": {
     "node": ">=14.0.0"
   },
